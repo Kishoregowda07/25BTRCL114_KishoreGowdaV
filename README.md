@@ -1,6 +1,5 @@
 # 25BTRCL114_KishoreGowdaV
 Python_Programming_Assignment1-2
-# 25BTRCL114_KishoreGowdaV
 
 ## Python Programming Lab Assignments
 
@@ -23,5 +22,4 @@ Contains the programs and output screenshots for Unit 2 Lab Assignment.
 - Python
 
 ## Submitted For
-
-Python Programming Lab Assignment
+prof Biswajit Debnath
