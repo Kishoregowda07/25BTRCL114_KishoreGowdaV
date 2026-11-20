@@ -1,0 +1,6 @@
+Application started successfully
+User logged in
+Database connection established
+Warning: Low memory
+Error: File not found
+Application closed
