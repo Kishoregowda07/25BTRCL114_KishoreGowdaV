@@ -1,5 +1,5 @@
 # 25BTRCL114_KishoreGowdaV
-Python_Programming_Assignment1-2
+Python_Programming_Assignment1-5
 
 ## Python Programming Lab Assignments
 
@@ -11,11 +11,7 @@ Python_Programming_Assignment1-2
 
 This repository contains my Python lab assignments, programs, and output screenshots.
 
-### Unit 1
-Contains the programs and output screenshots for Unit 1 Lab Assignment.
 
-### Unit 2
-Contains the programs and output screenshots for Unit 2 Lab Assignment.
 
 ## Language Used
 
